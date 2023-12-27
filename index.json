@@ -2,18 +2,8 @@
     "Version":"1.0.0",
     "Files":[
         {
-            "PageName":"IntroPage1",
-            "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/intropage_1.json",
-            "Version":"1.0.0"
-        },
-        {
-            "PageName":"IntroPage2",
-            "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/intropage_2.json",
-            "Version":"1.0.0"
-        },
-        {
-            "PageName":"IntroPage3",
-            "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/intropage_3.json",
+            "PageName":"Introduce",
+            "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/introduce.json",
             "Version":"1.0.0"
         }
     ]

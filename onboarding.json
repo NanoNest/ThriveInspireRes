@@ -13,9 +13,8 @@
 			"SubTitle":"你的名字會顯示在勵志金句上。",
 			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
 			"Input": {
-				"InputMethod":"text",
+				"InputMethod":"text"
 			}
-			
 		},
 		{
 			"Index":3,
@@ -29,23 +28,23 @@
 						"Index":1,
 						"Description":"驚人的"
 					},
-					{       
-                                                "Index":2,
-                                                "Description":"好的"
-                                        },
-                                        {       
-                                                "Index":3,
-                                                "Description":"中性的"
-                                        },
-                                        {       
-                                                "Index":4,
-                                                "Description":"壞的"
-                                        },
-                                        {       
-                                                "Index":5,
-                                                "Description":"糟糕的"
-                                        },
-				],
+					{
+						"Index":2,
+						"Description":"好的"
+					},
+					{
+						"Index":3,
+						"Description":"中性的"
+					},
+					{
+						"Index":4,
+						"Description":"壞的"
+					},
+					{
+						"Index":5,
+						"Description":"糟糕的"
+					}
+				]
 			}
 		}
 	]

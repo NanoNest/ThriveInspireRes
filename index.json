@@ -5,6 +5,11 @@
             "PageName":"Introduce",
             "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/introduce.json",
             "Version":"1.0.0"
+        },
+        {
+            "PageName":"Onboarding",
+            "Url":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/onboarding.json",
+            "Version":"1.0.0"
         }
     ]
 }

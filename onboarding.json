@@ -1,0 +1,52 @@
+{
+	"Pages": [
+		{
+			"Index":1,
+			"Title":"讓Motivation為您服務",
+			"SubTitle":"請回答幾個問題來自訂以符合您和您的目標",
+			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
+			"Input":""
+		},
+		{
+			"Index":2,
+			"Title":"我們一步一步來，該怎麼稱呼你？",
+			"SubTitle":"你的名字會顯示在勵志金句上。",
+			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
+			"Input": {
+				"InputMethod":"text",
+			}
+			
+		},
+		{
+			"Index":3,
+			"Title":"最近感覺怎麼樣？",
+			"SubTitle":"你會看到符合您目前心情的佳句。",
+			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
+			"Input": {
+				"InputMethod":"select",
+				"Options": [
+					{
+						"Index":1,
+						"Description":"驚人的"
+					},
+					{       
+                                                "Index":2,
+                                                "Description":"好的"
+                                        },
+                                        {       
+                                                "Index":3,
+                                                "Description":"中性的"
+                                        },
+                                        {       
+                                                "Index":4,
+                                                "Description":"壞的"
+                                        },
+                                        {       
+                                                "Index":5,
+                                                "Description":"糟糕的"
+                                        },
+				],
+			}
+		}
+	]
+}

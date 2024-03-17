@@ -13,7 +13,9 @@
 			"SubTitle":"你的名字會顯示在勵志金句上。",
 			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
 			"Input": {
-				"InputMethod":"text"
+				"InputMethod":"text",
+				"ItemName":"userName",
+				"Placeholder":"Enter your name"
 			}
 		},
 		{
@@ -23,6 +25,7 @@
 			"Image":"https://raw.githubusercontent.com/NanoNest/ThriveInspireRes/public/images/onboarding.jpg",
 			"Input": {
 				"InputMethod":"select",
+				"ItemName":"userMood",
 				"Options": [
 					{
 						"Index":1,
